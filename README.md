@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**ALabowski/ALabowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
+### Artist / Coder / Producer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+See what I've been up to, and what I'm all about:
+
+- 🔭 I’m currently working on a Minecraft resource pack
+- 🌱 I’m currently learning Python programming
+- 👯 I’m looking to collaborate on a video game
+- 🤔 I’m looking for help with Java game development
+- 📫 How to reach me: [currently undisclosed]
+- ⚡ Skills:
+  - Adobe Photoshop
+  - Aseprite
+  - Unity
+  - Python
+  - Java
+  - C#
+  - Project management
